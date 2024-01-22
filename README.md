@@ -1,6 +1,6 @@
 ## About me
 
-- 💻 I'm studying it at  **UMAIA**. school, Portugal
+- 💻 I'm studying IT at  **UMAIA**. school, Portugal
 
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giraudgabriel)](https://github.com/Amandio-Silva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggiraud/)](www.linkedin.com/in/amandio-fontes)

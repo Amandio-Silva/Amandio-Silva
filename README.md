@@ -15,7 +15,6 @@
 - HTML
 - CSS
 - PHP
-- 
 
 ## Some techs that I love to use
 - Node.js

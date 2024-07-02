@@ -9,6 +9,9 @@
 ## My Main Progamming Languages
 - C++
 - C
+- C#
+- Python
+- Java
 - Javascript / Typescript
 - Lua
 - SQL

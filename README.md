@@ -57,8 +57,6 @@ My favorite playgrounds:
 
 | 🚧 Project | 🧾 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| 🧱 **Obras.pt** | Platform connecting clients to professionals for home services | Next.js • Node.js • MongoDB • TailwindCSS |
-| 🛍️ **Game Scripts Store** | Online store with automated delivery and payment integrations | Node.js • Express • Stripe • PayPal |
 | 🤖 **Discord Automation Bot** | Handles verification, tickets, and auto-sales via Discord | Node.js • Discord.js • MongoDB |
 | 🖥️ **Portfolio Website** | Personal portfolio with smooth animations and clean UX | Next.js • TailwindCSS • Framer Motion |
 
